@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Lingering Fireworks",
+  "base_artist": "Orangestar",
+  "createdAt": "2025-12-28T08:29:32.570688Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lingering Fireworks",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/01_Lingering_Fireworks_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lingering Fireworks",
+      "artist": "Orangestar feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_Lingering_Fireworks_Orangestar_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lingering Fireworks",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/03_Lingering_Fireworks_Orangestar.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lingering Fireworks",
+      "artist": "Orangestar feat. 初音ミク V3",
+      "has_synced": true,
+      "path": "select/04_Lingering_Fireworks_Orangestar_feat._初音ミク_V3.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "残灯花火 - Lingering Fireworks",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/05_残灯花火_-_Lingering_Fireworks_Orangestar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lingering Fireworks",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_Lingering_Fireworks_Orangestar.txt"
+    }
+  ]
+}
